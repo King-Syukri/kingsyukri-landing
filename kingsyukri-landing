@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Upgrade Diri Lewat Audio & Energi</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #fff;
+      color: #222;
+      margin: 0 auto;
+      padding: 20px;
+      max-width: 700px;
+      line-height: 1.6;
+    }
+    h1, h2 { color: #000; }
+    .button {
+      display: inline-block;
+      margin: 10px 0;
+      padding: 10px 16px;
+      background: #000;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 6px;
+    }
+    .product-link { margin-bottom: 12px; }
+  </style>
+</head>
+<body>
+  <h1>Upgrade Diri Lewat Audio & Energi</h1>
+  <p>Dulu saya pikir kerja keras cukup untuk sukses. Tapi hidup saya mulai berubah saat saya temukan kekuatan audio dan energi — hanya 7 menit sehari.</p>
+
+  <h2>1. Audio Transformasi</h2>
+  <div class="product-link">
+    <a class="button" href="https://thebillionairebrainwave.com/DSvsl/#aff=Kingsyukri" target="_blank">The Billionaire Brain Wave</a>
+  </div>
+  <div class="product-link">
+    <a class="button" href="https://www.digistore24.com/redir/423307/Kingsyukri/" target="_blank">The Genius Wave</a>
+  </div>
+
+  <h2>2. Energi & Perlindungan</h2>
+  <div class="product-link">
+    <a class="button" href="https://astralhq.com/ds-shifting/#aff=Kingsyukri" target="_blank">AstralHQ Shifting</a>
+  </div>
+  <div class="product-link">
+    <a class="button" href="https://teslacare.net/tesla-grounding-dg/#aff=Kingsyukri" target="_blank">Tesla Grounding Device</a>
+  </div>
+
+  <h2>3. Suplemen & Daya Tahan</h2>
+  <div class="product-link">
+    <a class="button" href="https://www.advancedbionutritionals.com/DS24/Advanced-Mitochondrial/Too-Tired-To-Enjoy-It/HD.htm#aff=Kingsyukri" target="_blank">Advanced Mitochondrial Support</a>
+  </div>
+
+  <p><strong>Cobalah satu produk hari ini.</strong> Jangan tunggu waktu yang sempurna untuk mulai berubah.</p>
+</body>
+</html>
